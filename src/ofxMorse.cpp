@@ -22,14 +22,14 @@ ofxMorse::ofxMorse() {
     MorseMap['M'] = "--";
     MorseMap['N'] = "-.";
     MorseMap['O'] = "---";
-    MorseMap['…'] = "---.";
+    MorseMap['?'] = "---.";
     MorseMap['P'] = ".--.";
     MorseMap['Q'] = "--.-";
     MorseMap['R'] = ".-.";
     MorseMap['S'] = "...";
     MorseMap['T'] = "-";
     MorseMap['U'] = "..-";
-    MorseMap['†'] = "..--";
+    MorseMap['?'] = "..--";
     MorseMap['V'] = "...-";
     MorseMap['W'] = ".--";
     MorseMap['X'] = "-..-";
